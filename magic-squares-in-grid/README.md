@@ -150,3 +150,14 @@ In total, there is only one magic square inside the given grid.
 * `col == grid[i].length`
 * `1 <= row, col <= 10`
 * `0 <= grid[i][j] <= 15`
+
+## Instructions for Running my Solution:
+Requires Python 3.10 or higher.
+
+1. Invoke the Python interpreter
+2. Import the `solution.py` module
+3. Instantiate the module's `Solution` class
+4. Invoke the instance's `numMagicSquaresInside` method with a `grid` argument.
+
+## LeetCode Submission Detail:
+See here: https://leetcode.com/submissions/detail/1351811766/
