@@ -145,7 +145,7 @@ In total, there is only one magic square inside the given grid.
 
 **Output:** 0
 
-### Constraints:
+## Constraints:
 * `row == grid.lenth`
 * `col == grid[i].length`
 * `1 <= row, col <= 10`
