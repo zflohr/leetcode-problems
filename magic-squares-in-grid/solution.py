@@ -1,3 +1,8 @@
+"""
+Author: Zachary Flohr
+Date: 2024-08-11
+"""
+
 class Solution:
     """A counter of non-trivial, normal magic squares in a given grid.
 
