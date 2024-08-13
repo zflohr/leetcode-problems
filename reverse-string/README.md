@@ -20,7 +20,7 @@ You must do this by modifying the input array [in-place](https://en.wikipedia.or
 
 
 ## Constraints:
-* `1 <= s.length <= 10<sup>5</sup>`
+* <code>1 <= s.length <= 10<sup>5</sup></code>
 * `s[i]` is a [printable ASCII character](https://en.wikipedia.org/wiki/ASCII#Printable_characters).
 
 ## Instructions for Running my Solution:
