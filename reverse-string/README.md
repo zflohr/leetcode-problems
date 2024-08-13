@@ -29,7 +29,7 @@ Requires Python 3.10 or higher.
 1. Invoke the Python interpreter
 2. Import the `solution.py` module
 3. Instantiate the module's `Solution` class
-4. Invoke the instance's `reverseString` method with input `s`.
+4. Invoke the instance's `reverseString` method with input `s`
 
 ## LeetCode Submission Detail:
 See here: https://leetcode.com/submissions/detail/1353920885/
