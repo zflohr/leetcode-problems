@@ -1,6 +1,6 @@
 """
 Author: Zachary Flohr
-Date: 2024-08-12
+Date: 2024-08-17
 """
 
 class Solution:
@@ -47,12 +47,8 @@ class Solution:
         """
         order = 3 
         magic_squares = 0
-        for i in range(len(grid)):
-            if i + order > len(grid):
-                break
-            for j in range(len(grid[i])):
-                if j + order > len(grid[i]):
-                    break
+        for i in range(len(grid) - order + 1):
+            for j in range(len(grid[i]) - order + 1):
                 principal_diag_sum, secondary_diag_sum = 0, 0
                 magic_sum = None
                 trivial = False
