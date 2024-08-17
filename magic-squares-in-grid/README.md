@@ -160,4 +160,4 @@ Requires Python 3.10 or higher.
 4. Invoke the instance's `numMagicSquaresInside` method with a `grid` argument.
 
 ## LeetCode Submission Detail:
-See here: https://leetcode.com/submissions/detail/1352964591/
+See here: https://leetcode.com/submissions/detail/1358516768/
