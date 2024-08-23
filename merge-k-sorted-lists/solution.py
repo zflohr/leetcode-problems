@@ -6,7 +6,7 @@ Date: 2024-08-18
 class ListNode:
     """A node of a singly linked list."""
 
-    def __init__(self, val = 0, next = None):
+    def __init__(self, val = 0, next: 'ListNode | None' = None) -> None:
         self.val = val
         self.next = next
 
