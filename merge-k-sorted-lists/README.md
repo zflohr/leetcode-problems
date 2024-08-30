@@ -57,4 +57,4 @@ Requires Python 3.10 or higher.
    must be a list of `ListNode` and/or of `NoneType` instances.
 
 ## LeetCode Submission Detail:
-See here: https://leetcode.com/submissions/detail/1359980892/
+See here: https://leetcode.com/submissions/detail/1372762680/
