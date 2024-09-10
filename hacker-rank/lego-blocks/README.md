@@ -85,3 +85,6 @@ For the second case, each row of the wall can contain either two blocks of width
 1, or one block of width 2. However, the wall where all rows contain two blocks
 of width 1 is not a solid one as it can be divided vertically. Thus, the number
 of ways is **2 x 2 x 2 - 1 = 7** and **7 mod (10<sup>9</sup> + 7) = 7.**
+
+## HackerRank Submission:
+See here: https://www.hackerrank.com/challenges/one-week-preparation-kit-lego-blocks/submissions/code/400144737
